@@ -86,7 +86,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 27 FEB | LockBit [themselves] | LockBit ransomware | LockBit .onion [not linked] | 
 | 27 FEB | ALPHV [themselves] | ALPHV ransomware | vHUMINT [closed source] |
 | 27 FEB | Mēris Botnet [themselves] | DDoS attacks | vHUMINT [closed source] |
-| 28 FEB | Security Affairs | Phishing attacks | [Security Affair] (https://securityaffairs.co/wordpress/128397/apt/belarusian-unc1151-targets-ukraine.html?utm_source=rss&utm_medium=rss&utm_campaign=belarusian-unc1151-targets-ukraine) |
+| 28 FEB | Security Affairs | Phishing attacks | [Security Affair](https://securityaffairs.co/wordpress/128397/apt/belarusian-unc1151-targets-ukraine.html?utm_source=rss&utm_medium=rss&utm_campaign=belarusian-unc1151-targets-ukraine) |
 
 #### `Access Brokers`
 | Date | Source | Threat(s) | Source |
